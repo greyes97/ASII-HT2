@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order id="f3fde6d0-f9ed-11ea-921e-290a71daa5e5">
+   <cashier>developer</cashier>
+   <customer>DeveloperJrEdy</customer>
+   <date>2020-09-18T20:32:22.925Z</date>Torta de carne (4)Flan (5)<item>Hamburguesa</item>
+   <item>Papas [Fritas]</item>
+   <item>Bebida [Te frio]</item>
+   <item>Postre [Flan]</item>
+   <nameMenu>Almuerzo 1</nameMenu>
+   <taxId>78457</taxId>
+   <total>110</total>
+</order>
